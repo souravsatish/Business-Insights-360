@@ -6,12 +6,10 @@ The company struggled to make accurate data-driven decisions. It lacked data tra
 ## Objective
 Develop comprehensive dashboards for key business functions, including Finance, Sales, Supply Chain Management, Marketing, and Executive. These dashboards empower businesses to track performance across all departments in detail over specific time periods, enabling the swift identification and resolution of issues within specific regions, countries, or products. By adopting this proactive, data-driven approach, organizations can address operational challenges promptly, ensuring alignment with strategic goals and driving more informed decision-making.
 
-    Finance View
-      Purpose: Provides a comprehensive overview of financial performance metrics, including revenue, profit margins, operating costs, and variance analysis.
-      Details:
-      Tracks key financial KPIs such as Net Revenue, Gross Margin %, and Operating Costs.
-      Enables users to drill down into specific time periods (monthly, quarterly, yearly) and analyze trends.
-      Supports budget vs. actual comparisons and helps identify areas where cost savings or profitability improvements can be made.
-      Impact: Facilitates financial planning and ensures alignment with organizational budgets and targets.
+1) Finance view: Provides a comprehensive overview of financial performance metrics, tracking revenue, profit margins, operating costs, and variance analysis. It enables monitoring of financial KPIs over specific time periods to ensure alignment with organizational budgets and targets.
+2) Sales view: Focuses on sales performance, allowing detailed tracking of revenue generation across regions, products, and customer segments. It highlights top-performing products, regions, and sales channels while analyzing sales trends and market shares.
+3) Supply chain view: Monitors supply chain efficiency with key metrics such as forecast accuracy, inventory levels, and net errors. This view helps identify risks like stockouts or excess inventory, ensuring better inventory management and operational efficiency.
+4) Marketing view: Tracks marketing performance, offering insights into campaign effectiveness, customer engagement, and marketing ROI. This view supports the refinement of targeting strategies and measures the impact of marketing initiatives on revenue.
+5) Executive view: Acts as a high-level summary consolidating critical KPIs from all departments into a unified view. It provides leadership with a clear picture of overall organizational performance, highlighting achievements, challenges, and trends.
 
 
