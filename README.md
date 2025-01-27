@@ -6,8 +6,8 @@ The company struggled to make accurate data-driven decisions. It lacked data tra
 ## Objective
 Develop comprehensive dashboards for key business functions, including Finance, Sales, Supply Chain Management, Marketing, and Executive. These dashboards empower businesses to track performance across all departments in detail over specific time periods, enabling the swift identification and resolution of issues within specific regions, countries, or products. By adopting this proactive, data-driven approach, organizations can address operational challenges promptly, ensuring alignment with strategic goals and driving more informed decision-making.
 
-   Finance View
-      #### Purpose: Provides a comprehensive overview of financial performance metrics, including revenue, profit margins, operating costs, and variance analysis.
+   #### Finance View
+      Purpose: Provides a comprehensive overview of financial performance metrics, including revenue, profit margins, operating costs, and variance analysis.
       Details:
       Tracks key financial KPIs such as Net Revenue, Gross Margin %, and Operating Costs.
       Enables users to drill down into specific time periods (monthly, quarterly, yearly) and analyze trends.
