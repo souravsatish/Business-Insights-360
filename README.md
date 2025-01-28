@@ -10,6 +10,8 @@ Develop comprehensive dashboards for key business functions, including Finance, 
 2) [Sales view](https://github.com/souravsatish/Business-Insights-360/blob/main/Sales_view.png): Focuses on sales performance, allowing detailed tracking of revenue generation across regions, products, and customer segments. It highlights top-performing products, regions, and sales channels while analyzing sales trends and market shares.
 3) [Marketing view](https://github.com/souravsatish/Business-Insights-360/blob/main/Marketing_view.png): Tracks marketing performance, offering insights into campaign effectiveness, customer engagement, and marketing ROI. This view supports the refinement of targeting strategies and measures the impact of marketing initiatives on revenue.
 4) [Supply chain view](https://github.com/souravsatish/Business-Insights-360/blob/main/Supply_chain_view.png): Monitors supply chain efficiency with key metrics such as forecast accuracy, inventory levels, and net errors. This view helps identify risks like stockouts or excess inventory, ensuring better inventory management and operational efficiency.
-5) [Executive view](https://github.com/souravsatish/Business-Insights-360/blob/main/Exicutive_view.png): Acts as a high-level summary consolidating critical KPIs from all departments into a unified view. It provides leadership with a clear picture of overall organizational performance, highlighting achievements, challenges, and trends.
+5)
+6)This is a screenshot of the Executive View dashboard in Power BI:
+7) ![Executive view](https://github.com/souravsatish/Business-Insights-360/blob/main/Exicutive_view.png): Acts as a high-level summary consolidating critical KPIs from all departments into a unified view. It provides leadership with a clear picture of overall organizational performance, highlighting achievements, challenges, and trends.
 
 
