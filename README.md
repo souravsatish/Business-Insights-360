@@ -32,9 +32,5 @@ Develop comprehensive dashboards for key business functions, including Finance, 
 - [x] Skilled in selecting the most suitable visualization techniques.
 - [x] Experienced in integrating supplementary data into existing models
 
-## Soft Skills:
-- [x] Refined understanding of Sales, Finance, Supply Chain Management, and Marketing.
-- [x] Designing user-centric reports with empathy in mind.
-- [x] Optimization of report generation through meticulous fine-tuning.
-- [x] Developing a systematic approach to devising a report-building plan.
+
 
