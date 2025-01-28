@@ -18,3 +18,17 @@ Develop comprehensive dashboards for key business functions, including Finance, 
 3) MySQL
 4) DAX Studio
 
+## Technical Skills
+- [x] Skilled in ETL processes (Extract, Transform, Load).
+- [x] Strong understanding of data modeling principles 
+- [x] Proficient in creating tables using Power Query
+- [x] Adept at using DAX to create calculated columns and measures.
+- [x] Skilled in selecting the most suitable visualization techniques.
+- [x] Experienced in integrating supplementary data into existing models
+
+## Soft Skills:
+- [x] Refined understanding of Sales, Finance, Supply Chain Management, and Marketing.
+- [x] Designing user-centric reports with empathy in mind.
+- [x] Optimization of report generation through meticulous fine-tuning.
+- [x] Developing a systematic approach to devising a report-building plan.
+
