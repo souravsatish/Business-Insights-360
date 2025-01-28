@@ -13,6 +13,8 @@ Develop comprehensive dashboards for key business functions, including Finance, 
 5) [Executive view](https://github.com/souravsatish/Business-Insights-360/blob/main/Exicutive_view.png): Acts as a high-level summary consolidating critical KPIs from all departments into a unified view. It provides leadership with a clear picture of overall organizational performance, highlighting achievements, challenges, and trends.
 
 ## Technical Stack
-1)Excel
-2)Bi
+1) Excel
+2) Power Bi
+3) MySQL
+4) DAX Studio
 
