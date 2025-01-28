@@ -12,4 +12,10 @@ Develop comprehensive dashboards for key business functions, including Finance, 
 4) [Supply chain view](https://github.com/souravsatish/Business-Insights-360/blob/main/Supply_chain_view.png): Monitors supply chain efficiency with key metrics such as forecast accuracy, inventory levels, and net errors. This view helps identify risks like stockouts or excess inventory, ensuring better inventory management and operational efficiency.
 5) [Executive view](https://github.com/souravsatish/Business-Insights-360/blob/main/Exicutive_view.png): Acts as a high-level summary consolidating critical KPIs from all departments into a unified view. It provides leadership with a clear picture of overall organizational performance, highlighting achievements, challenges, and trends.
 
+## Technical Stack
+
+1)Excel
+2)Powerbi
+3)MySQL
+4)DAX Studio
 
