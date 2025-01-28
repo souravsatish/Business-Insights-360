@@ -1,5 +1,11 @@
 # Business-Insights-360
 
+## Project Overview
+
+AtliQ is a rapidly expanding hardware company that markets a diverse array of products to customers across various countries through multiple channels, including retail outlets, direct sales, and distributor networks, both online and in physical stores. To enhance its growth trajectory and enable data-driven decision-making, AtliQ requires a dedicated data analytics team
+
+[Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzUyYmE4ODItNzQxMS00ODI1LTkzZWEtODQwZWU0MmZkMDQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Problem Statement 
 The company struggled to make accurate data-driven decisions. It lacked data transparency due to its reliance on Excel for all data analytical operations even after expanding its operations to multiple countries.
 
